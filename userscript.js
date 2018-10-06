@@ -2,7 +2,7 @@
 // @name         Remove Facebook Adverts
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Remove Facebook Adverts using Contact LIst
+// @description  Remove Facebook Adverts using Contact List
 // @author       lamdav
 // @match        https://www.facebook.com/*
 // @grant        none
