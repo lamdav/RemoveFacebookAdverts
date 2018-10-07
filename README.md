@@ -17,7 +17,7 @@ Install it via Tampermonkey (should work on GreaseMonkey as well but I have not 
 This will run when you are on Facebook's homepage or ad preference view. If you are on
 the homepage, it will attempt to insert a quick link "Manage Ad Preference" under the
 post creation text field. This is primary for convenience as it not only saves a couple of clicks
-through Facebook's maze of a a settings page but also acts as a reminder to clean
+through Facebook's maze of a settings page but also acts as a reminder to clean
 up this growing list of random advertisers you may have interacted with. 
 
 Once on the ad preference view, it will attempt to open the interacted panel and
