@@ -29,7 +29,7 @@
                     } else {
                         // click the removal button.
                         console.log("[rm-fbad] showing all adverts");
-                        document.querySelectorAll(`[data-tooltip-content="Hide ads from this advertiser"]`)
+                        document.querySelectorAll(`[data-tooltip-content="Hide all ads from this advertiser"]`)
                             .forEach((element) => element.click());
                         console.log("[rm-fbad] removed all adverts");
                         clearInterval(clearAds);
